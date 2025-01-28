@@ -17,3 +17,8 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: PoojaAnandGit
   gitBranch: main
+- name: TestWorkdayConnector
+  gitServerName: test
+  gitUrl: https://github.com/karthikbm
+  gitUsername: PoojaAnandGit
+  gitBranch: main
