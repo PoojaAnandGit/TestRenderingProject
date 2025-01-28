@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: PoojaAnandGit
   gitBranch: master
+- name: CoupaTestPackage
+  gitServerName: test
+  gitUrl: https://github.com/karthikbm
+  gitUsername: PoojaAnandGit
+  gitBranch: main
