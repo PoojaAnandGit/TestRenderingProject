@@ -11,19 +11,18 @@
     <value name="Punith_KMAT_Salesforce_Sync">1.0</value>
     <value name="CoupaTestPackage">1.0</value>
     <value name="TestWorkdayConnector">1.0</value>
-    <value name="ShopifyTest1011">1.0</value>
     <value name="WmShopifyProvider">10.7.0.0.14</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">6</value>
+  <value name="build">7</value>
   <null name="description"/>
   <value name="created_date">27-01-2025 10:38:02 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-01-29T09:12:26.4847634Z</value>
+  <value name="lastUpdated">2025-01-29T09:14:43.1132936Z</value>
   <value name="wmProjectId">fld924808ed6bc27b0841474</value>
   <value name="creator">Pooja Anand</value>
 </Values>

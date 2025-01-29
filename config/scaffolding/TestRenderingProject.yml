@@ -22,11 +22,6 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: PoojaAnandGit
   gitBranch: main
-- name: ShopifyTest1011
-  gitServerName: test
-  gitUrl: https://github.com/karthikbm
-  gitUsername: PoojaAnandGit
-  gitBranch: master
 - name: WmShopifyProvider
   wpmServer: https://packages.webmethods.io
   wpmRegistry: supported
