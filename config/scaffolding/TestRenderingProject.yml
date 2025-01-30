@@ -36,3 +36,8 @@ packages:
   gitUrl: http://engx.gitlab01.eur.ad.sag/root
   gitUsername: root
   gitBranch: main
+- name: testControlsFromOnPrem_Render_1
+  gitServerName: test
+  gitUrl: https://github.com/PoojaAnandGit
+  gitUsername: PoojaAnandGit
+  gitBranch: main
