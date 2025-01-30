@@ -31,3 +31,8 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: PoojaAnandGit
   gitBranch: master
+- name: rahs_gl-ispackage
+  gitServerName: testgitLab
+  gitUrl: http://engx.gitlab01.eur.ad.sag/root
+  gitUsername: root
+  gitBranch: main
