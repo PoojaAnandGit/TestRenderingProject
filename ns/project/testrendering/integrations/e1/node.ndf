@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">poan</value>
-    <value name="createdDate">1738148073097</value>
-    <value name="lastModifiedDate">1738148073097</value>
+    <value name="lastModifiedBy">poan</value>
+    <value name="lastModifiedDate">1738220111513</value>
     <value name="displayName">e1</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -60,6 +59,19 @@
           <null name="services"/>
         </record>
         <Boolean name="isProjectPackage">false</Boolean>
+        <Boolean name="serviceReferenceResolved">false</Boolean>
+        <value name="nodePathForDebug">0</value>
+        <number name="ui_step_index" type="Long">1</number>
+        <value name="nodePathNew">0</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="lineNumberForDebug" type="Long">1</number>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="description">wmshopify_v2019_04.lookup.Delete:boList</value>
+          <value name="serviceName">wmshopify_v2019_04.lookup.Delete:boList</value>
+          <value name="displayName">boList</value>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
       </record>
     </record>
   </record>
